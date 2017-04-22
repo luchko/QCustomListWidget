@@ -1,13 +1,13 @@
-QCodeEditor widget (PyQt)
+QCustomListWidget widget (PyQt)
 *************************
 
-- Git-hub repo: https://github.com/luchko/QCodeEditor
+- Git-hub repo: https://github.com/luchko/QCustomListWidget
 - Free software: MIT license
 
 Overview
 ========
 
-``QCodeEditor`` is a light code editor widget based on ``QPlainTextEdit`` and provides the following features:
+``QCustomListWidget`` is a light code editor widget based on ``QPlainTextEdit`` and provides the following features:
 
 - **line numbers bar** - set by DISPLAY_LINE_NUMBERS flag True
     
