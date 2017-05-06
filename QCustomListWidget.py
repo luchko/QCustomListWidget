@@ -1,8 +1,8 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-Created on Sat Feb 25 17:07:36 2017
-
+Licensed under the terms of the MIT License 
+https://github.com/luchko/QCustomListWidget
 @author: Ivan Luchko (luchko.ivan@gmail.com)
 
 This module contains the definition of the QCustomListWidget with add/remove buttons.
