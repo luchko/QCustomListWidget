@@ -13,8 +13,6 @@ Overview
     
 - **curent line highligthing** - set by HIGHLIGHT_CURRENT_LINE flag True
    
-- **syntax highlighting** - setting up a ``QSyntaxHighlighter``. As an example XML syntax highlighter was used.
-
 Widget is compatible with Python 2.7 or Python 3.3+ and PyQt4 4.6+ or PyQt5 5.2+.
 
 -------------------------
