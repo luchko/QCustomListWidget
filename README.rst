@@ -7,4 +7,4 @@ QCustomListWidget widget (PyQt)
 Overview
 ========
 
-*TO BE ADDED*
+*DESCRIPTION WILL BE EXTENDED*
